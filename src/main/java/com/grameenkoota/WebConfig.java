@@ -26,5 +26,4 @@ public class WebConfig extends WebMvcConfigurerAdapter {
 				.allowedHeaders(
 						"Content-Type,X-Requested-With,accept,Origin,Access-Control-Request-Method,Access-Control-Request-Headers,Authorization");
 	}
-	
 }
